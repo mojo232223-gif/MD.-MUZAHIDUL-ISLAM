@@ -1,0 +1,6 @@
+{
+  "name": "FBA Fee Calculator",
+  "description": "Amazon FBA Fee Calculator and size tier classification application supporting US, UK, DE, FR, IT, ES, and CA marketplaces with latest 2026 rates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
